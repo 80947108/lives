@@ -1,59 +1,44 @@
-#  2025-12-12 18:46:31
+#  2025-12-13 18:41:48
 
 white_lst = [
     'gxlive.snrtv.com',   # reserved
+    'tencentplay.gztv.com',   # reserved
     'nlive.zjkgdcs.com:8572',   # reserved
     'nlive.zjkgdcs.com:8091',   # reserved
-    'live.kanwz.net',   # SPEED=31.73X
-    'jwplay.hebyun.com.cn',   # SPEED=22.90X
-    'english-livetx.cgtn.com',   # SPEED=18.23X
-    'webcast.hkstv.tv',   # SPEED=18.05X
-    'stream1.freetv.fun',   # SPEED=17.35X
-    '38.75.136.137:98',   # SPEED=17.10X
-    '0472.org',   # SPEED=16.77X
-    'epg.pw',   # SPEED=16.21X
-    'txmov2.a.kwimgs.com',   # SPEED=14.20X
-    'ikcdn01.ikzybf.com',   # SPEED=13.49X
-    '120.76.248.139',   # SPEED=13.14X
-    'eastscreen.tv',   # SPEED=10.43X
-    'l.cztvcloud.com',   # SPEED=9.11X
-    'srs.ssws.tv',   # SPEED=9.01X
+    'epg.pw',   # SPEED=19.49X
+    'phonetx.qing.mgtv.com',   # SPEED=19.25X
+    'stream1.freetv.fun',   # SPEED=19.11X
+    'english-livetx.cgtn.com',   # SPEED=18.60X
+    'jwplay.hebyun.com.cn',   # SPEED=18.21X
+    '0472.org',   # SPEED=17.50X
+    'webcast.hkstv.tv',   # SPEED=14.95X
+    'ali-vl.cztv.com',   # SPEED=11.32X
+    'eastscreen.tv',   # SPEED=9.72X
     'play.kankanlive.com',   # SPEED=8.88X
-    'tencentplaywebsite.gztv.com',   # SPEED=8.87X
-    'antvlive.ab5c6921.cdnviet.com',   # SPEED=7.66X
-    's1.abntelevision.com',   # SPEED=7.52X
-    'tencentplay.gztv.com',   # SPEED=7.52X
-    'tencentplaygsm.gztv.com',   # SPEED=7.30X
-    'tp88.cn',   # SPEED=7.13X
-    'jwcdnqx.hebyun.com.cn',   # SPEED=6.98X
-    'ali-m-l.cztv.com',   # SPEED=6.94X
-    'ldocctvwbcdtxy.liveplay.myqcloud.com',   # SPEED=6.84X
-    'tencentplaygzrb01.gztv.com',   # SPEED=6.78X
-    'other.ottiptv.cc',   # SPEED=6.69X
-    '38.64.72.148:80',   # SPEED=6.66X
-    'ali-vl.cztv.com',   # SPEED=6.58X
-    'live.jinchuanrmt.com:90',   # SPEED=6.02X
-    'api.kkitv.itv888.vip:8080',   # SPEED=5.75X
-    'live.zohi.tv',   # SPEED=5.30X
-    '218.84.12.186:8001',   # SPEED=5.26X
-    'rihou.cc:555/tv/[mg]海南卫视',   # SPEED=5.11X
-    'ali-m-l.cztv.com:80',   # SPEED=5.06X
-    'rihou.cc:555/tv/[mg]江苏卫视',   # SPEED=3.99X
-    'english-livebkali.cgtn.com',   # SPEED=3.89X
-    'play1-qk.nmtv.cn:80',   # SPEED=3.57X
-    '27.41.245.32:801',   # SPEED=3.42X
-    'ucdn.sd.chinamobile.com:8089',   # SPEED=3.33X
-    'yylunbo.ottiptv.cc',   # SPEED=3.18X
-    'rihou.cc:555/tv/[mg]湖南卫视',   # SPEED=3.15X
-    '182.114.50.192:9901',   # SPEED=3.14X
-    'event.pull.hebtv.com',   # SPEED=2.95X
-    '182.150.115.21:8030',   # SPEED=2.84X
-    'www.lysvc.cc',   # SPEED=2.67X
-    '1.94.31.214',   # SPEED=2.47X
-    'rihou.cc:555/tv/[mg]广东卫视',   # SPEED=2.38X
-    'rihou.cc:555/tv/[mg]CCTV-04',   # SPEED=2.26X
-    'rihou.cc:555/tv/[mg]CCTV-14',   # SPEED=2.10X
-    'bp-resource-dfl.bestv.cn',   # SPEED=2.03X
-    'rihou.cc:555/tv/[mg]CCTV-02',   # SPEED=1.69X
-    'play-qukan.cztv.com',   # SPEED=1.64X
+    'antvlive.ab5c6921.cdnviet.com',   # SPEED=8.34X
+    'l.cztvcloud.com',   # SPEED=8.13X
+    's1.abntelevision.com',   # SPEED=8.12X
+    'live.zohi.tv',   # SPEED=7.77X
+    'api.kkitv.itv888.vip:8080',   # SPEED=7.71X
+    'jwcdnqx.hebyun.com.cn',   # SPEED=7.21X
+    'ldocctvwbcdtxy.liveplay.myqcloud.com',   # SPEED=6.08X
+    'srs.ssws.tv',   # SPEED=5.38X
+    'ali-m-l.cztv.com',   # SPEED=5.00X
+    'ali-m-l.cztv.com:80',   # SPEED=4.72X
+    'rihou.cc:555/tv/[mg]CCTV-07',   # SPEED=4.17X
+    'play1-qk.nmtv.cn:80',   # SPEED=4.16X
+    '218.84.12.186:8001',   # SPEED=3.95X
+    'tp88.cn',   # SPEED=3.90X
+    'nn.7x9d.cn',   # SPEED=3.74X
+    'rihou.cc:555/tv/[mg]江苏卫视',   # SPEED=3.39X
+    'global.cgtn.cicc.media.caton.cloud',   # SPEED=3.08X
+    '27.41.245.32:801',   # SPEED=2.86X
+    '101.74.28.209:9901',   # SPEED=2.82X
+    'event.pull.hebtv.com',   # SPEED=2.74X
+    '1.94.31.214',   # SPEED=2.32X
+    'rihou.cc:555/tv/[mg]CCTV-04',   # SPEED=2.01X
+    'rihou.cc:555/tv/[mg]CCTV-13',   # SPEED=1.96X
+    'rihou.cc:555/tv/[mg]CCTV-03',   # SPEED=1.73X
+    'play-qukan.cztv.com',   # SPEED=1.69X
+    '38.64.72.148:80',   # SPEED=1.62X
 ]
