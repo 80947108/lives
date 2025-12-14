@@ -1,44 +1,59 @@
-#  2025-12-13 18:41:48
+#  2025-12-14 18:43:10
 
 white_lst = [
     'gxlive.snrtv.com',   # reserved
-    'tencentplay.gztv.com',   # reserved
     'nlive.zjkgdcs.com:8572',   # reserved
     'nlive.zjkgdcs.com:8091',   # reserved
-    'epg.pw',   # SPEED=19.49X
-    'phonetx.qing.mgtv.com',   # SPEED=19.25X
-    'stream1.freetv.fun',   # SPEED=19.11X
-    'english-livetx.cgtn.com',   # SPEED=18.60X
-    'jwplay.hebyun.com.cn',   # SPEED=18.21X
-    '0472.org',   # SPEED=17.50X
-    'webcast.hkstv.tv',   # SPEED=14.95X
-    'ali-vl.cztv.com',   # SPEED=11.32X
-    'eastscreen.tv',   # SPEED=9.72X
-    'play.kankanlive.com',   # SPEED=8.88X
-    'antvlive.ab5c6921.cdnviet.com',   # SPEED=8.34X
-    'l.cztvcloud.com',   # SPEED=8.13X
-    's1.abntelevision.com',   # SPEED=8.12X
-    'live.zohi.tv',   # SPEED=7.77X
-    'api.kkitv.itv888.vip:8080',   # SPEED=7.71X
+    'phonetx.qing.mgtv.com',   # SPEED=22.93X
+    'stream1.freetv.fun',   # SPEED=18.28X
+    'jwplay.hebyun.com.cn',   # SPEED=17.96X
+    'epg.pw',   # SPEED=17.86X
+    'webcast.hkstv.tv',   # SPEED=17.43X
+    '120.76.248.139',   # SPEED=15.16X
+    'ali-vl.cztv.com',   # SPEED=13.95X
+    'l.cztvcloud.com',   # SPEED=10.33X
+    'play.kankanlive.com',   # SPEED=8.87X
+    'live.jinchuanrmt.com:90',   # SPEED=8.75X
+    'tencentplaygzrb01.gztv.com',   # SPEED=8.67X
+    's1.abntelevision.com',   # SPEED=8.20X
+    'tencentplaywebsite.gztv.com',   # SPEED=8.14X
+    'tp88.cn',   # SPEED=7.49X
     'jwcdnqx.hebyun.com.cn',   # SPEED=7.21X
-    'ldocctvwbcdtxy.liveplay.myqcloud.com',   # SPEED=6.08X
-    'srs.ssws.tv',   # SPEED=5.38X
-    'ali-m-l.cztv.com',   # SPEED=5.00X
-    'ali-m-l.cztv.com:80',   # SPEED=4.72X
-    'rihou.cc:555/tv/[mg]CCTV-07',   # SPEED=4.17X
-    'play1-qk.nmtv.cn:80',   # SPEED=4.16X
-    '218.84.12.186:8001',   # SPEED=3.95X
-    'tp88.cn',   # SPEED=3.90X
-    'nn.7x9d.cn',   # SPEED=3.74X
-    'rihou.cc:555/tv/[mg]江苏卫视',   # SPEED=3.39X
-    'global.cgtn.cicc.media.caton.cloud',   # SPEED=3.08X
-    '27.41.245.32:801',   # SPEED=2.86X
-    '101.74.28.209:9901',   # SPEED=2.82X
-    'event.pull.hebtv.com',   # SPEED=2.74X
-    '1.94.31.214',   # SPEED=2.32X
-    'rihou.cc:555/tv/[mg]CCTV-04',   # SPEED=2.01X
-    'rihou.cc:555/tv/[mg]CCTV-13',   # SPEED=1.96X
-    'rihou.cc:555/tv/[mg]CCTV-03',   # SPEED=1.73X
-    'play-qukan.cztv.com',   # SPEED=1.69X
-    '38.64.72.148:80',   # SPEED=1.62X
+    'tencentplay.gztv.com',   # SPEED=6.70X
+    'antvlive.ab5c6921.cdnviet.com',   # SPEED=6.52X
+    'eastscreen.tv',   # SPEED=6.30X
+    'ldocctvwbcdtxy.liveplay.myqcloud.com',   # SPEED=6.13X
+    '218.84.12.186:8001',   # SPEED=6.00X
+    'srs.ssws.tv',   # SPEED=5.59X
+    'ali-m-l.cztv.com',   # SPEED=5.32X
+    'other.ottiptv.cc',   # SPEED=5.27X
+    'english-livebkali.cgtn.com',   # SPEED=5.24X
+    '182.150.115.21:8030',   # SPEED=4.92X
+    'live.zohi.tv',   # SPEED=4.64X
+    'api.kkitv.itv888.vip:8080',   # SPEED=4.63X
+    'nn.7x9d.cn',   # SPEED=4.63X
+    'ali-m-l.cztv.com:80',   # SPEED=4.44X
+    'play1-qk.nmtv.cn:80',   # SPEED=4.01X
+    'iptv.catvod.com',   # SPEED=3.97X
+    'rihou.cc:555/tv/[mg]深圳卫视',   # SPEED=3.50X
+    'yylunbo.ottiptv.cc',   # SPEED=3.41X
+    'rihou.cc:555/tv/[mg]湖南卫视',   # SPEED=3.30X
+    'rihou.cc:555/tv/[mg]江苏卫视',   # SPEED=3.17X
+    '144.255.32.94:8288',   # SPEED=2.96X
+    '27.41.245.32:801',   # SPEED=2.82X
+    'rihou.cc:555/tv/[mg]东方卫视',   # SPEED=2.78X
+    '1.94.31.214',   # SPEED=2.36X
+    'rihou.cc:555/tv/[mg]CCTV-04',   # SPEED=2.33X
+    'rihou.cc:555/tv/[mg]河南卫视',   # SPEED=2.20X
+    '101.74.28.209:9901',   # SPEED=2.17X
+    'rihou.cc:555/tv/[mg]CCTV-03',   # SPEED=2.12X
+    '38.64.72.148:80',   # SPEED=1.98X
+    'rihou.cc:555/tv/[mg]广东卫视',   # SPEED=1.94X
+    'www.lysvc.cc',   # SPEED=1.93X
+    'rihou.cc:555/tv/[mg]CCTV-14',   # SPEED=1.89X
+    'event.pull.hebtv.com',   # SPEED=1.88X
+    'bp-resource-dfl.bestv.cn',   # SPEED=1.80X
+    'rihou.cc:555/tv/[mg]CCTV-13',   # SPEED=1.73X
+    'rihou.cc:555/tv/[mg]CCTV-07',   # SPEED=1.64X
+    'rihou.cc:555/tv/[mg]CCTV-02',   # SPEED=1.52X
 ]
