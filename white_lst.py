@@ -1,25 +1,27 @@
-#  2026-11-11 01:47:17
+#  2026-11-12 01:53:20
 
 white_lst = [
     'gxlive.snrtv.com',   # reserved
     'nlive.zjkgdcs.com:8572',   # reserved
     'nlive.zjkgdcs.com:8091',   # reserved
-    'txmov2.a.kwimgs.com',   # SPEED=16.33X
-    'epg.pw',   # SPEED=16.03X
-    'srs.iyb983.cn:443',   # SPEED=15.23X
-    'srs.iyb983.cn',   # SPEED=14.10X
-    'ali-xwl.cztv.com',   # SPEED=9.70X
-    'ali-vl.cztv.com',   # SPEED=9.61X
-    'jwcdnqx.hebyun.com.cn',   # SPEED=9.28X
-    'live.jinchuanrmt.com:90',   # SPEED=5.63X
-    'p2.bdstatic.com',   # SPEED=5.58X
-    'ali-m-l.cztv.com',   # SPEED=4.96X
-    'live.zohi.tv',   # SPEED=4.88X
-    'hlsal-ldvt.qing.mgtv.com',   # SPEED=4.54X
-    'live.zohi.tv:80',   # SPEED=3.82X
-    'play1-qk.nmtv.cn',   # SPEED=3.37X
-    'tencentplay.gztv.com',   # SPEED=2.96X
-    'tencentplaybusiness.gztv.com',   # SPEED=2.86X
-    '182.150.115.21:8030',   # SPEED=2.71X
-    'bp-resource-dfl.bestv.cn',   # SPEED=2.20X
+    'epg.pw',   # SPEED=11.63X
+    'srs.iyb983.cn',   # SPEED=10.79X
+    'live.jinchuanrmt.com:90',   # SPEED=10.18X
+    'jwcdnqx.hebyun.com.cn',   # SPEED=8.83X
+    'srs.iyb983.cn:443',   # SPEED=7.85X
+    'ali-m-l.cztv.com:80',   # SPEED=6.02X
+    'ali-xwl.cztv.com',   # SPEED=5.63X
+    'ali-m-l.cztv.com',   # SPEED=5.38X
+    'live.zohi.tv:80',   # SPEED=4.85X
+    'live.zohi.tv',   # SPEED=4.08X
+    'l.cztvcloud.com',   # SPEED=3.87X
+    'hlsal-ldvt.qing.mgtv.com',   # SPEED=3.51X
+    'tencentplay.gztv.com',   # SPEED=3.15X
+    'tencentplaybusiness.gztv.com',   # SPEED=3.10X
+    'play1-qk.nmtv.cn',   # SPEED=3.02X
+    '182.150.115.21:8030',   # SPEED=2.42X
+    'p2.bdstatic.com',   # SPEED=2.30X
+    'bp-resource-dfl.bestv.cn',   # SPEED=2.12X
+    '119.39.9.8:9901',   # SPEED=1.82X
+    'liveout.xntv.tv',   # SPEED=1.81X
 ]
