@@ -1,29 +1,32 @@
-#  2026-11-21 02:36:12
+#  2026-11-22 01:27:38
 
 white_lst = [
     'gxlive.snrtv.com',   # reserved
     'nlive.zjkgdcs.com:8572',   # reserved
     'nlive.zjkgdcs.com:8091',   # reserved
-    '218.84.12.186:8001',   # SPEED=17.43X
-    'jwcdnqx.hebyun.com.cn',   # SPEED=14.67X
-    'english-livetx.cgtn.com',   # SPEED=14.42X
-    '0472.org',   # SPEED=11.03X
-    'live.jinchuanrmt.com:90',   # SPEED=10.43X
-    'srs.iyb983.cn:443',   # SPEED=9.45X
-    'srs.iyb983.cn',   # SPEED=7.62X
-    'l.cztvcloud.com',   # SPEED=6.61X
-    'live.zohi.tv',   # SPEED=6.39X
-    'live.zohi.tv:80',   # SPEED=5.97X
-    'ali-xwl.cztv.com',   # SPEED=5.34X
-    'ali-m-l.cztv.com',   # SPEED=4.40X
-    'ali-m-l.cztv.com:80',   # SPEED=4.26X
-    '182.150.115.21:8030',   # SPEED=3.86X
-    '8.134.101.151',   # SPEED=3.44X
-    'tencentplaybusiness.gztv.com',   # SPEED=3.41X
-    '8.138.7.223',   # SPEED=3.33X
-    'tencentplay.gztv.com',   # SPEED=3.29X
-    'play1-qk.nmtv.cn',   # SPEED=3.15X
-    'hlsal-ldvt.qing.mgtv.com',   # SPEED=2.98X
-    '221.7.175.154:8445',   # SPEED=2.71X
-    'liveout.xntv.tv',   # SPEED=1.69X
+    'txmov2.a.kwimgs.com',   # SPEED=19.03X
+    '218.84.12.186:8001',   # SPEED=18.00X
+    'english-livetx.cgtn.com',   # SPEED=12.74X
+    'ali-xwl.cztv.com',   # SPEED=12.65X
+    '0472.org',   # SPEED=12.23X
+    'ali-vl.cztv.com',   # SPEED=11.30X
+    'srs.iyb983.cn:443',   # SPEED=7.00X
+    'live.jinchuanrmt.com:90',   # SPEED=6.93X
+    'jwcdnqx.hebyun.com.cn',   # SPEED=6.25X
+    'srs.iyb983.cn',   # SPEED=5.97X
+    'live.zohi.tv',   # SPEED=5.83X
+    'l.cztvcloud.com',   # SPEED=5.69X
+    'ali-m-l.cztv.com',   # SPEED=4.95X
+    'tencentplaybusiness.gztv.com',   # SPEED=4.75X
+    'live.zohi.tv:80',   # SPEED=4.40X
+    '8.134.101.151',   # SPEED=4.33X
+    'ali-m-l.cztv.com:80',   # SPEED=4.20X
+    'tencentplay.gztv.com',   # SPEED=3.91X
+    '8.138.214.88:1905',   # SPEED=3.72X
+    'hlsal-ldvt.qing.mgtv.com',   # SPEED=3.58X
+    '182.150.115.21:8030',   # SPEED=2.98X
+    'live.metshop.top',   # SPEED=2.97X
+    'bp-resource-dfl.bestv.cn',   # SPEED=2.23X
+    'liveout.xntv.tv',   # SPEED=2.10X
+    '221.7.175.154:8445',   # SPEED=2.05X
 ]
