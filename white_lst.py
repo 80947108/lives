@@ -1,32 +1,29 @@
-#  2026-11-22 01:27:38
+#  2026-11-23 01:48:49
 
 white_lst = [
     'gxlive.snrtv.com',   # reserved
     'nlive.zjkgdcs.com:8572',   # reserved
     'nlive.zjkgdcs.com:8091',   # reserved
-    'txmov2.a.kwimgs.com',   # SPEED=19.03X
-    '218.84.12.186:8001',   # SPEED=18.00X
-    'english-livetx.cgtn.com',   # SPEED=12.74X
-    'ali-xwl.cztv.com',   # SPEED=12.65X
-    '0472.org',   # SPEED=12.23X
-    'ali-vl.cztv.com',   # SPEED=11.30X
-    'srs.iyb983.cn:443',   # SPEED=7.00X
-    'live.jinchuanrmt.com:90',   # SPEED=6.93X
-    'jwcdnqx.hebyun.com.cn',   # SPEED=6.25X
-    'srs.iyb983.cn',   # SPEED=5.97X
-    'live.zohi.tv',   # SPEED=5.83X
-    'l.cztvcloud.com',   # SPEED=5.69X
-    'ali-m-l.cztv.com',   # SPEED=4.95X
-    'tencentplaybusiness.gztv.com',   # SPEED=4.75X
-    'live.zohi.tv:80',   # SPEED=4.40X
-    '8.134.101.151',   # SPEED=4.33X
-    'ali-m-l.cztv.com:80',   # SPEED=4.20X
-    'tencentplay.gztv.com',   # SPEED=3.91X
-    '8.138.214.88:1905',   # SPEED=3.72X
-    'hlsal-ldvt.qing.mgtv.com',   # SPEED=3.58X
-    '182.150.115.21:8030',   # SPEED=2.98X
-    'live.metshop.top',   # SPEED=2.97X
-    'bp-resource-dfl.bestv.cn',   # SPEED=2.23X
-    'liveout.xntv.tv',   # SPEED=2.10X
-    '221.7.175.154:8445',   # SPEED=2.05X
+    'txmov2.a.kwimgs.com',   # SPEED=15.50X
+    '218.84.12.186:8001',   # SPEED=13.07X
+    'english-livetx.cgtn.com',   # SPEED=12.09X
+    '0472.org',   # SPEED=11.35X
+    'ali-vl.cztv.com',   # SPEED=9.85X
+    'ali-m-l.cztv.com',   # SPEED=9.19X
+    'ali-m-l.cztv.com:80',   # SPEED=8.99X
+    'live.jinchuanrmt.com:90',   # SPEED=8.04X
+    'ali-xwl.cztv.com',   # SPEED=7.39X
+    'l.cztvcloud.com',   # SPEED=6.49X
+    'live.zohi.tv:80',   # SPEED=6.45X
+    'live.zohi.tv',   # SPEED=5.84X
+    'srs.iyb983.cn:443',   # SPEED=5.21X
+    'srs.iyb983.cn',   # SPEED=4.73X
+    'tencentplay.gztv.com',   # SPEED=4.09X
+    'hlsal-ldvt.qing.mgtv.com',   # SPEED=3.61X
+    'tencentplaybusiness.gztv.com',   # SPEED=3.51X
+    'live.metshop.top',   # SPEED=3.18X
+    '8.134.101.151',   # SPEED=3.09X
+    '182.150.115.21:8030',   # SPEED=2.38X
+    'bp-resource-dfl.bestv.cn',   # SPEED=2.37X
+    '221.7.175.154:8445',   # SPEED=2.19X
 ]
